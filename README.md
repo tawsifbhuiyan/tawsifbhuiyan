@@ -61,8 +61,8 @@ Over **2,500+** algorithmic problems solved across:
 | 5  | 🥈 Ranked **2nd** in **SPC Round 40**                                       | [Standings](#)                                |
 | 6  | 🥉 Ranked **4th** in **SPC Round 35**                                       | [Standings](#)                                |
 | 7  | ⭐ Achieved **3★** on **CodeChef**, Country Rank: **590**                   | Handle: `tawsif_bhuiyan`                      |
-| 8  | 🚀 Reached **Top 12%** on **LeetCode**, Max Rating: **1703**               | Handle: `tawsifbhuiyan`                       |
-| 9  | 🟩 Achieved **Green Coder** on **Codeforces**, Max Rating: **1384**        | Handle: `Tawsif`                              |
+| 8  | 🚀 Reached **Top 9%** on **LeetCode**, Max Rating: **1788**               | Handle: `tawsifbhuiyan`                       |
+| 9  | 🟩 Achieved **Cyan Coder** on **Codeforces**, Max Rating: **1432**        | Handle: `Tawsif`                              |
 | 10 | 🟫 Reached **Brown Coder** on **AtCoder**                                   | Handle: `tawsifbhuiyan`                       |
 | 11 | 🧠 Ranked **515th/2489** in **ICPC Preliminary 2024** (Top 20%)             | Team: JUOddBits                               |
 | 12 | 🔒 Earned **LeetCode 50 Days Badge** for 3 consecutive years                | Years: 2023, 2024, 2025                       |
